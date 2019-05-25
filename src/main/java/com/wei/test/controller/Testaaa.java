@@ -5,6 +5,9 @@ public class Testaaa {
     private  int bbb=3;
     private  String cc="zhugan";
     private String ccc="主干提交分支";
+    
+    
+    private String ddd="nihao";
     public String getAaa() {
         return aaa;
     }
